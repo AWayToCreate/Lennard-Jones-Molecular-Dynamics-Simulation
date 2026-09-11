@@ -8,8 +8,8 @@ tracking, and a liquid-to-solid phase transition obtained by progressive
 cooling.
 
 <p align="center">
-  <em>Add a GIF or screenshot of one of the animations here — see the
-  "Adding a demo" section below.</em>
+  <img width="818" height="355" alt="image" src="https://github.com/user-attachments/assets/6c71bae6-0aeb-46f1-bb8a-5f956c5ecff0" />
+
 </p>
 
 ## Overview
@@ -107,26 +107,16 @@ makes the project much easier to present. To add one:
 3. Reference it at the top of this README:
    `![demo](media/demo.gif)`.
 
-## Repository structure
+## Results 
 
-```
-lennard-jones-md-simulation/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-└── src/
-    ├── lennard_jones_nve.py
-    ├── lennard_jones_nvt.py
-    ├── lennard_jones_nvt_trajectories.py
-    └── lennard_jones_solidification.py
-```
+<img width="750" height="606" alt="image" src="https://github.com/user-attachments/assets/b0dbb721-d1a2-4751-acc5-c497d38420be" />
+<img width="508" height="495" alt="image" src="https://github.com/user-attachments/assets/d8e28357-36a1-434d-aa3c-78227bdc8995" />
+<img width="626" height="265" alt="image" src="https://github.com/user-attachments/assets/9bd31197-406f-4340-93a2-84cd728d7909" />
 
-## License
 
-This project is distributed under the [MIT License](LICENSE).
+
 
 ## Author
 
-[Your Name] — feel free to open an issue or a pull request for questions,
+AWayToCreate — feel free to open an issue or a pull request for questions,
 bug reports, or suggestions.
