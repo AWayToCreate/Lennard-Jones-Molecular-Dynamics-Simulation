@@ -118,5 +118,4 @@ makes the project much easier to present. To add one:
 
 ## Author
 
-AWayToCreate — feel free to open an issue or a pull request for questions,
-bug reports, or suggestions.
+AWayToCreate — This repository is provided for learning, experimentation, and testing purposes. You are welcome to study and use the code to learn, but you may not copy it, claim it as your own, present it as your own work, or redistribute it without permission.
